@@ -6,14 +6,21 @@
 该生成对抗网络为最开始的生成对抗网络
 ### 2：DCGAN
 基于卷积神经网络构成的GAN
+
 论文地址：https://arxiv.org/abs/1511.06434
+
 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 ### 3：Conditional GAN
 
 论文地址：https://arxiv.org/pdf/1411.1784.pdf
+
 Conditional Generative Adversarial Nets
 ### 4：Pix2Pix
 该部分是对CGAN的变体。
+
+
 论文地址：https://arxiv.org/abs/1611.07004 
+
 Image-to-Image Translation with Conditional Adversarial Networks
+
 项目源码：https://phillipi.github.io/pix2pix/
