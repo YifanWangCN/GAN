@@ -1,3 +1,0 @@
-CUDA  ---11.1
-cudnn cudnn v8.2.0
-pytorch -- v1.9.0
