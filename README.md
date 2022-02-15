@@ -25,7 +25,7 @@ Image-to-Image Translation with Conditional Adversarial Networks
 
 项目源码：https://phillipi.github.io/pix2pix/
 
-### 4：CycleGAN
+### 5：CycleGAN
 该部分是对CGAN的变体。
 
 
