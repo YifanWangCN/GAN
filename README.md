@@ -10,7 +10,7 @@
 论文地址：https://arxiv.org/abs/1511.06434
 
 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
-### 3：Conditional GAN
+### 3：ConditionalGAN
 
 论文地址：https://arxiv.org/pdf/1411.1784.pdf
 
@@ -24,3 +24,13 @@ Conditional Generative Adversarial Nets
 Image-to-Image Translation with Conditional Adversarial Networks
 
 项目源码：https://phillipi.github.io/pix2pix/
+
+### 4：CycleGAN
+该部分是对CGAN的变体。
+
+
+论文地址：https://arxiv.org/pdf/1703.10593.pdf
+
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+
+项目源码：https://junyanz.github.io/CycleGAN/
